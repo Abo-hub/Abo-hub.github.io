@@ -22,14 +22,14 @@
     </url>
     
     <url>
-        <loc>https://sunbo.net/archive/</loc>
+        <loc>https://sunbo.net/about/</loc>
         <lastmod>2020-12-01T10:09:14.611Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sunbo.net/about/</loc>
+        <loc>https://sunbo.net/archive/</loc>
         <lastmod>2020-12-01T10:09:14.611Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
