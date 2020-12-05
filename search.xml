@@ -4,6 +4,46 @@
   
     
     <entry>
+      <title>Mermaid 使用教程</title>
+      <link href="2020/12/05/mermaid/"/>
+      <url>2020/12/05/mermaid/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><a href="https://mermaid-js.github.io/mermaid/#/" target="_blank" rel="noopener">官网文档</a></p><p><img src="mermaid-1.png" alt="mermaid"></p><pre class="mermaid">graph LR    A-->B</pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>产品经理效率工具</title>
+      <link href="2020/12/03/pm-efficiency-tools/"/>
+      <url>2020/12/03/pm-efficiency-tools/</url>
+      
+        <content type="html"><![CDATA[<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 产品经理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 产品经理 </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo-Theme-Snail</title>
       <link href="2019/11/01/Hexo-Theme-Snail/"/>
       <url>2019/11/01/Hexo-Theme-Snail/</url>

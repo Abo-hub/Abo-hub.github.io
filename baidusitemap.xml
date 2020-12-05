@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sunbo.net/2020/12/05/mermaid/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sunbo.net/2020/12/03/pm-efficiency-tools/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  <url>
     <loc>https://sunbo.net/2019/11/01/Hexo-Theme-Snail/</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-03</lastmod>
   </url>
 </urlset> 

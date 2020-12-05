@@ -3,8 +3,22 @@
 
 
     <url>
+        <loc>https://sunbo.net/tags/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
+        <lastmod>2020-12-05T04:53:43.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://sunbo.net/tags/%25E4%25BA%25A7%25E5%2593%2581%25E7%25BB%258F%25E7%2590%2586/</loc>
+        <lastmod>2020-12-05T04:53:43.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://sunbo.net/tags/hexo-theme-snail/</loc>
-        <lastmod>2020-12-01T10:09:14.595Z</lastmod>
+        <lastmod>2020-12-03T07:52:49.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
