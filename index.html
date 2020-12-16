@@ -290,6 +290,8 @@
 
     
 
+    
+
 
 
 <!-- Main Content -->
@@ -371,6 +373,49 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
 
     
 
+    
+
+        <div class="post-preview">
+
+            <a href="/2019/08/15/Mysql/">
+                <h2 class="post-title">
+                    Mysql简介
+                </h2>
+                <h3 class="post-subtitle">
+                    数据库基本基本概念相关介绍
+                </h3>
+                <div class="post-content-preview">
+                    数据库相关概念
+DB：数据库，保存一组有组织的数据容器
+DBMS：数据库管理系统，又称为数据库软件，用于管理 DB 中的数据。
+SQL：结构化查询语言，用于和 DMBS 通信的语言
+
+基本操作
+启动服务net start mysql
+关闭服务net stop mysql
+登录mysql [-h 地址 -p 端口号] -u 用户名 -p 密码
+退出exit或ctrl+C
+
+MySQL的语法规范......
+                </div>
+            </a>
+            
+                <p class="post-meta" style="margin: 10px 0;">
+                    Posted by Sunbo on
+                    2019-08-15
+                </p>
+                <div class="tags">
+                    
+                      <a href="/tags/#Mysql" title="Mysql">Mysql</a>
+                    
+                </div>
+            
+
+        </div>
+        <hr>
+
+    
+
 
 
 <!-- Pager -->
@@ -422,6 +467,8 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
     <!-- no hr -->
     <h5><a href="/tags/">FEATURED TAGS</a></h5>
     <div class="tags">
+        
+            
         
             
         
@@ -518,6 +565,10 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
           <a href="/2019/11/01/Hexo-Theme-Snail/">Hexo-Theme-Snail</a>
         </li>
       
+        <li>
+          <a href="/2019/08/15/Mysql/">Mysql简介</a>
+        </li>
+      
     </ul>
   </div>
 
@@ -544,7 +595,7 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
         
     <h5>ARCHIVES</h5>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/12/">December 2020</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/11/">November 2019</a><span class="archive-list-count">1</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/12/">December 2020</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/11/">November 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/08/">August 2019</a><span class="archive-list-count">1</span></li></ul>
     </div>
 
         <hr>
@@ -558,6 +609,8 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
           <a href="categories/#hexo"><li>hexo</li></a>
         
           <a href="categories/#产品经理"><li>产品经理</li></a>
+        
+          <a href="categories/#数据库"><li>数据库</li></a>
         
       </ul>
     </div>
@@ -748,7 +801,7 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
         
 
         
-            <script type="text/javascript" src="/js/mouse-click.js" content='[&#34;🌱&#34;,&#34;just do it&#34;,&#34;🍀&#34;]' color='[&#34;rgb(121,93,179)&#34; ,&#34;rgb(76,180,231)&#34; ,&#34;rgb(184,90,154)&#34;]'></script>
+            <script type="text/javascript" src="/js/mouse-click.js" content='[&quot;🌱&quot;,&quot;just do it&quot;,&quot;🍀&quot;]' color='[&quot;rgb(121,93,179)&quot; ,&quot;rgb(76,180,231)&quot; ,&quot;rgb(184,90,154)&quot;]'></script>
         
 
         <!-- background effects end -->
@@ -758,6 +811,21 @@ Hexo-theme-snail is a succinct hexo theme. It has two colors, light and star, th
     
         <script src="/js/ribbonDynamic.js"></script>
     
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 </html>
